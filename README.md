@@ -1,30 +1,61 @@
-# 💻 Andrea Lorena
+# 💻 Andrea Lorena — Software Developer & Ing. en Comercio Exterior
 
-> **featured.projects**
-
-| Proyecto | Estado | Enfoque |
-| :--- | :---: | :---: |
-| **📁 [Alke Wallet](https://github.com/andrea1980lorena-cmyk/proyecto-js-alkemy)** <br><sub>Desarrollo Front-end interactivo y moderno para gestión financiera personal.</sub> | ![](https://img.shields.io/badge/Estado-Online-00FF66?style=flat-square) | ![](https://img.shields.io/badge/Stack-JavaScript%20%7C%20HTML%20%7C%20CSS-blueviolet?style=flat-square) |
-| **📁 [APIs RESTful Seguras](https://github.com/andrea1980lorena-cmyk/abp-m8)** <br><sub>Desarrollo de servicios Backend seguros con arquitectura RESTful.</sub> | ![](https://img.shields.io/badge/Estado-Completado-00E5FF?style=flat-square) | ![](https://img.shields.io/badge/Stack-Backend%20%7C%20Security%20%7C%20API-00D2FF?style=flat-square) |
-| **📁 [Sistema COMEX](https://github.com/andrea1980lorena-cmyk/sistema-control-importaciones-comex)** <br><sub>Sistema para el control, trazabilidad y gestión de importaciones de comercio exterior.</sub> | ![](https://img.shields.io/badge/Estado-En_Desarrollo-FF007F?style=flat-square) | ![](https://img.shields.io/badge/Stack-Gestión%20%7C%20Logística%20%7C%20Web-yellow?style=flat-square) |
+> Desarrolladora de Software con formación en **Ingeniería en Comercio Exterior**. Especializada en la creación de soluciones digitales para logística, trazabilidad de importaciones, APIs RESTful y gestión financiera.
 
 ---
 
-> **building.brands**
+### 📌 Perfil Profesional
+
+Estudiante de Ingeniería en Comercio Exterior apasionada por la transformación digital y el desarrollo de software. Mi objetivo es tender un puente entre la lógica de negocios internacionales y la tecnología, desarrollando herramientas eficientes para optimizar procesos logísticos, gestión de importaciones y sistemas transaccionales.
+
+* **Ubicación:** Chile 🇨🇱
+* **Enfoque:** Tech & Trade / Logística Digital / Full-Stack
+* **Disponibilidad:** Prácticas, proyectos y oportunidades laborales
+
+---
+
+### 🛠️ Stack Tecnológico & Dominio
+
+**Desarrollo Web & Backend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/API-RESTful-0055E5?style=flat-square)
+
+**Dominio de Negocios**
+![Comex](https://img.shields.io/badge/Comercio_Exterior-Logística-00D2FF?style=flat-square)
+![Importaciones](https://img.shields.io/badge/Control-Importaciones-FF007F?style=flat-square)
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Enfoque Técnico | Estado |
+| :--- | :--- | :--- | :--- |
+| **[Sistema COMEX](https://github.com/andrea1980lorena-cmyk/sistema-control-importaciones-comex)** | Plataforma para el control, trazabilidad y gestión de procesos de importación en comercio exterior. | `Comex` `Full-Stack` | `En Desarrollo` |
+| **[Alke Wallet](https://github.com/andrea1980lorena-cmyk/proyecto-js-alkemy)** | Aplicación web para gestión financiera personal e interactiva. | `JavaScript` `HTML/CSS` | `Completado` |
+| **[APIs RESTful Seguras](https://github.com/andrea1980lorena-cmyk/abp-m8)** | Arquitectura e implementación de servicios web backend con foco en seguridad. | `Node.js` `API REST` | `Completado` |
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pkief/vscode-material-icon-theme/main/icons/workspace.svg" width="100" alt="Brand Logo"/>
-</p>
-
-<p align="center">
-  <sub>Desarrollo de software y soluciones digitales enfocadas en seguridad, eficiencia y gran experiencia de usuario.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrea1980lorena-cmyk&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea1980lorena-cmyk&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%"/>
 </p>
 
 ---
 
-> **stats.execute**
+### 📬 Contacto & Redes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea1980lorena-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea1980lorena-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%"/>
+  <a href="https://www.linkedin.com/in/andrea-vergara-630327150/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:andrea1980lorena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
