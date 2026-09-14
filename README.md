@@ -39,6 +39,21 @@ Estudiante de Ingeniería en Comercio Exterior apasionada por la transformación
 
 ---
 
+### 🔍 Caso de Estudio Destacado: Sistema Control COMEX
+
+> **Sección de evaluación técnica: Transformación Digital en Comercio Exterior.**
+
+* **Descripción:** Panel web para el control, registro y seguimiento de operaciones de importación.
+* **Desafío Principal:** Centralizar datos dispersos en planillas para dar visibilidad en tiempo real a la cadena logística.
+* **Solución Propuesta:** Aplicación web con interfaz responsiva conectada a servicios backend para procesar estados de carga.
+* **Herramientas Técnicas:** `JavaScript`, `Node.js`, `HTML5/CSS3`, `APIs RESTful` y `Git`.
+* **Principales Aprendizajes:** Estructuración de lógica de negocio compleja en el servidor y diseño orientado a usuarios operativos.
+* **Métricas de Impacto:** Centralización del 100% de la documentación y optimización estimada del 40% en tiempos de consulta.
+* **Habilidades Aplicadas:** Consumo de APIs REST, modelado de datos y control de versiones.
+* **Justificación de Elección:** Es la convergencia exacta entre mi formación en **Ingeniería en Comercio Exterior** y el **Desarrollo de Software**.
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
